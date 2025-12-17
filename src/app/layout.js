@@ -13,7 +13,7 @@ export const metadata = {
     title: "Mettä Muse | Discover Our Products",
     description:
       "Shop curated products at Mettä Muse. Explore our latest collection with detailed filters, responsive layouts, and easy browsing.",
-    url: "https://appscrip-task.netlify.app/",
+    url: "https://appscripyash.netlify.app/",
     siteName: "Mettä Muse",
     type: "website",
   },
@@ -29,8 +29,8 @@ const orgJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Mettä Muse",
-  url: "https://appscrip-task.netlify.app/",
-  logo: "https://appscrip-task.netlify.app/assets/logo.png",
+  url: "https://appscripyash.netlify.app/",
+  logo: "https://appscripyash.netlify.app/assets/logo.png",
 };
 
 export default function RootLayout({ children }) {
